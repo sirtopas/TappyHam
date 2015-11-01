@@ -1,0 +1,77 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 Ti (ID=0x1200)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.151 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\James\Source\Unity\TappyHam\TappyHam_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3a00 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.439033 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.206775 ms (FindLiveObjects: 0.017473 ms CreateObjectMapping: 0.014197 ms MarkObjects: 0.164910 ms  DeleteObjects: 0.009465 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.479805 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.186752 ms (FindLiveObjects: 0.016381 ms CreateObjectMapping: 0.013469 ms MarkObjects: 0.147072 ms  DeleteObjects: 0.009465 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.389159 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.212963 ms (FindLiveObjects: 0.022206 ms CreateObjectMapping: 0.013469 ms MarkObjects: 0.160906 ms  DeleteObjects: 0.015653 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.772130 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.199494 ms (FindLiveObjects: 0.022570 ms CreateObjectMapping: 0.014197 ms MarkObjects: 0.156901 ms  DeleteObjects: 0.004732 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.815815 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.192941 ms (FindLiveObjects: 0.018566 ms CreateObjectMapping: 0.013105 ms MarkObjects: 0.156173 ms  DeleteObjects: 0.004004 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.350935 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.252280 ms (FindLiveObjects: 0.018202 ms CreateObjectMapping: 0.027303 ms MarkObjects: 0.200586 ms  DeleteObjects: 0.005460 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.345110 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.201678 ms (FindLiveObjects: 0.014197 ms CreateObjectMapping: 0.013469 ms MarkObjects: 0.164182 ms  DeleteObjects: 0.009101 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.354939 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.209323 ms (FindLiveObjects: 0.022570 ms CreateObjectMapping: 0.013469 ms MarkObjects: 0.168186 ms  DeleteObjects: 0.004732 ms)
+
